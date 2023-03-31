@@ -1,6 +1,6 @@
 Name:		texlive-grading-scheme
 Version:	62505
-Release:	1
+Release:	2
 Summary:	Typeset grading schemes in tabular format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grading-scheme
