@@ -3,7 +3,7 @@ Version:	62505
 Release:	2
 Summary:	Typeset grading schemes in tabular format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grading-scheme
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/grading-scheme
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grading-scheme.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grading-scheme.doc.r%{version}.tar.xz
